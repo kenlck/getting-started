@@ -1,6 +1,6 @@
 To setup the environment, run the following commands:
 
-1. To install Homebrew, run `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`.
+1. To install Homebrew, run `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`.
 2. Run `brew install nvm` to install NVM (Node Version Manager).
 3. Run `nvm install stable` to install the latest stable version of Node.js.
 4. Run `nvm use stable` to use the latest stable version of Node.js.
